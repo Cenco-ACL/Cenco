@@ -20,7 +20,7 @@ hr {
 .form-control::placeholder { color: #999; }
 
 .tm-header {
-    background-color: #1f1f20;
+    background-color: #2596be;
     color: white;
     
     position: fixed;
@@ -28,7 +28,7 @@ hr {
     left: 0;
     bottom: 0;
     z-index: 100;
-    width: 400px;
+    width: 300px;
     overflow-y: visible;     
 }
 
