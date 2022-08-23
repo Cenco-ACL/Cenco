@@ -57,9 +57,13 @@
                     <form class="" action="../preguntas.php" method="post">
                       <h5 class="card-title text-center">Resumen de tu caso</h5>
                       <p class="card-text text-center">¿Se adecua con tu caso?</p>
+
                       <?php
                       $categoria=$_POST["respuesta1"];
                       $detalle=$_POST["respuesta2"];
+
+                      echo "<input type='hidden' name='cat' value='.$categoria.'>";
+                      echo "<input type='hidden' name='det' value='.$detalle.'>";
                       ?>
                       <b>Categoria: <?php echo $categoria;?></b><br>
                       <b>Detalle: <?php echo $detalle;?></b><br>
@@ -105,5 +109,28 @@
         </div>
       </div>
     </div>
+    <br><br><br>
+    <footer class="row">
+        <hr class="col-lg-8">
+        <div class="col-md-4 align-self-start col-9 tm-color-gray">
+           <h4 style="color: #96a1aa;">Siguenos</h4>
+           <a href="" style="color: #2d4359">
+
+            <i style="color: #2d4359;" class="fab fa-facebook tm-social-icon"></i>
+            <i style="color: #2d4359; padding-left: 20px;" class="fab fa-youtube tm-social-icon"></i>
+            <i style="color: #2d4359; padding-left: 25px;" class="fab fa-twitter tm-social-icon"></i>
+            </a>
+
+
+        </div>
+        <div class="col-md-4 align-self-center col-9 tm-color-gray">
+            <h4 style="color: #96a1aa;">Emergencias de Tarjetas de Credito</h4>
+            <h2 style="text-align: center; color: #2d4359;">111 222 333</h2>
+         </div>
+         <div class="col-md-4 align-self-center col-9 tm-color-gray">
+            <h4 style="color: #96a1aa;">Emergencias de Tarjetas de Credito</h4>
+            <h2 style="text-align: center; color: #2d4359;">111 222 333</h2>
+         </div>
+    </footer>
   </body>
 </html>

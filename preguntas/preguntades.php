@@ -71,5 +71,28 @@
           </div>
         </div>
     </div>
+    <br><br><br>
+    <footer class="row">
+        <hr class="col-lg-8">
+        <div class="col-md-4 align-self-start col-9 tm-color-gray">
+           <h4 style="color: #96a1aa;">Siguenos</h4>
+           <a href="" style="color: #2d4359">
+
+            <i style="color: #2d4359;" class="fab fa-facebook tm-social-icon"></i>
+            <i style="color: #2d4359; padding-left: 20px;" class="fab fa-youtube tm-social-icon"></i>
+            <i style="color: #2d4359; padding-left: 25px;" class="fab fa-twitter tm-social-icon"></i>
+            </a>
+
+
+        </div>
+        <div class="col-md-4 align-self-center col-9 tm-color-gray">
+            <h4 style="color: #96a1aa;">Emergencias de Tarjetas de Credito</h4>
+            <h2 style="text-align: center; color: #2d4359;">111 222 333</h2>
+         </div>
+         <div class="col-md-4 align-self-center col-9 tm-color-gray">
+            <h4 style="color: #96a1aa;">Emergencias de Tarjetas de Credito</h4>
+            <h2 style="text-align: center; color: #2d4359;">111 222 333</h2>
+         </div>
+    </footer>
   </body>
 </html>
