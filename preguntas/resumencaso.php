@@ -96,7 +96,7 @@
                 <button type="button" class="btn btn-danger btn-lg" data-bs-dismiss="modal">Volver al reclamo</button>
               </div>
               <div class="col-md-4">
-                <p><a href="../bot.html" class="tooltip-test btn btn-primary btn-lg" title="Ir al Bot">Ayuda con Bot</a>
+                <p><a href="../bot.php" class="tooltip-test btn btn-primary btn-lg" title="Ir al Bot">Ayuda con Bot</a>
               </div>
               <div class="col-md-4">
                   <p><a href="../preguntas.php" class="tooltip-test btn btn-primary btn-lg" title="Cancelar Reclamo">Cancelar Reclamo</a>

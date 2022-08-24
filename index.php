@@ -21,19 +21,19 @@
                 <h2 > <img src="img/tarjeta.jpg" width="250px" ></h2>
                 <nav class="tm-nav" id="tm-nav">
                     <ul>
-                        <li class="tm-nav-item active"><a href="index.html" class="tm-nav-link">
+                        <li class="tm-nav-item active"><a href="index.php" class="tm-nav-link">
                             <i class="fas fa-home"></i>
                             Inicio
                         </a></li>
-                        <li class="tm-nav-item"><a href="index.html" class="tm-nav-link">
+                        <li class="tm-nav-item"><a href="index.php" class="tm-nav-link">
                             <i class="fas fa-pen"></i>
                             Movimientos
                         </a></li>
-                        <li class="tm-nav-item"><a href="index.html" class="tm-nav-link">
+                        <li class="tm-nav-item"><a href="index.php" class="tm-nav-link">
                             <i class="fas fa-users"></i>
                             Pagar Cuenta
                         </a></li>
-                        <li class="tm-nav-item"><a href="index.html" class="tm-nav-link">
+                        <li class="tm-nav-item"><a href="index.php" class="tm-nav-link">
                             <i class="far fa-comments"></i>
                             PAT
                         </a></li>
@@ -41,7 +41,7 @@
                             <i class="fas fa-people-arrows"></i>
                             Asistencia
                         </a></li>
-                        <li class="tm-nav-item"><a href="bot.html" class="tm-nav-link">
+                        <li class="tm-nav-item"><a href="bot.php" class="tm-nav-link">
                             <i class="fas fa-robot"></i>
                             Gleen IA
                         </a></li>
@@ -78,7 +78,7 @@
             <div class="row tm-row">
                 <article class="col-lg-4 col-md-4 tm-post">
                     <hr class="tm-hr-primary">
-                    <a href="index.html" class="effect-lily tm-post-link tm-pt-60">
+                    <a href="index.php" class="effect-lily tm-post-link tm-pt-60">
                         <h2 class="tm-pt-30 tm-color-primary tm-post-title">Ultimos Movimientos</h2>
                         <h5 class="tm-pt-30 tm-color-primary ">Apareceran en tu proxima facturacion</h5>
                     </a>
@@ -126,7 +126,7 @@
                 </article>
                 <article class="col-2 col-md-4 tm-post">
                     <hr class="tm-hr-primary">
-                    <a href="index.html" class="effect-lily tm-post-link tm-pt-60">
+                    <a href="index.php" class="effect-lily tm-post-link tm-pt-60">
                         <h2 class="tm-pt-30 tm-color-primary tm-post-title">Estado de Cuenta</h2>
                         <h5 class="tm-pt-30 tm-color-primary ">Apareceran en tu proxima facturacion</h5>
                     </a>
@@ -158,7 +158,7 @@
                 </article>
                 <article class="col-lg-4 col-md-4">
                     <hr class="tm-hr-primary">
-                    <a href="bot.html" class="effect-lily tm-post-link tm-pt-30">
+                    <a href="bot.php" class="effect-lily tm-post-link tm-pt-30">
 
                         <h2 class="tm-pt-30 tm-color-primary tm-post-title">Otros Servicios Disponibles</h2>
                         <h5 class="tm-pt-30 tm-color-primary ">BOT</h5>

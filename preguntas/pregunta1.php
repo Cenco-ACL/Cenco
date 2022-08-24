@@ -39,7 +39,7 @@
           <div class="form-check">
             <input class="form-check-input" type="radio" name="preg1" id="exampleRadios5" value="">
             <label class="form-check-label" for="exampleRadios5">
-            <a href="bot.html">Otro</a>
+            <a href="bot.php">Otro</a>
             </label>
           </div>
           <button type="submit" name="siguiente" class="btn btn-primary">Siguiente Pregunta</button>

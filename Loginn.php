@@ -6,9 +6,9 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <link href="https://fonts.googleapis.com/css?family=Passion+One&amp;display=swap" rel="stylesheet">		
+        <link href="https://fonts.googleapis.com/css?family=Passion+One&amp;display=swap" rel="stylesheet">
         <link href="https://www.personasrf.cl/front/fonts/open-sans.css" rel="stylesheet" type="text/css">
-    
+
         <link href="https://www.personasrf.cl/front/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" type="text/css" href="https://www.personasrf.cl/front/css/nivo/nivo-slider.css">
         <link rel="stylesheet" type="text/css" href="https://www.personasrf.cl/front/css/jquery.qtip.min/jquery.qtip.min.css">
@@ -20,15 +20,15 @@
         <link rel="stylesheet" href="https://www.personasrf.cl/front/css/canvas/magnific-popup.css" type="text/css">
         <link href="https://www.personasrf.cl/front/js/sweetalerts/sweetalert.css" rel="stylesheet" type="text/css">
         <link href="https://www.personasrf.cl/front/js_2020/video-js.css" rel="stylesheet">
-            
+
         <script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/mq0-U1BHZ5YTcoDC-CvsLPNc/recaptcha__es.js" crossorigin="anonymous" integrity="sha384-eaU6fRkBNDtMf3A91CJZv5nexyGwlS5KjrXRoiSW4uC5VSz68JCdVvdwvnsSK8fA"></script><script type="text/javascript" src="https://www.personasrf.cl/front/js_2020/jquery-migrate-1.4.1.min.js"></script>
             <script src="https://www.personasrf.cl/front/js/sweetalerts/sweetalert.js"></script>
             <!-- If you'd like to support IE8 -->
             <link href="https://www.personasrf.cl/front/bootstrap/css/empresa/61_rf.css?v30" rel="stylesheet" type="text/css">
             <link href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" rel="stylesheet">
-            
-            
-    
+
+
+
     <link rel="shortcut icon" href="img/favicongo.ico">
 
 </head>
@@ -43,7 +43,7 @@
     margin-bottom: 10px;
     cursor: pointer;
     }
-    
+
     .button.button-3d {
     border-radius: 3px;
     border-bottom: none;
@@ -51,7 +51,7 @@
     -o-transition: none;
     transition: none;
     }
-    
+
     .account-wall {
     color: #ffffff !important;
     border: 1px dotted #fff;
@@ -63,7 +63,7 @@
     margin-top: 20px;
     padding: 36px 20px 20px 20px;
     }
-    
+
     .button {
     display: inline-block;
     position: relative;
@@ -84,15 +84,15 @@
     text-shadow: none;
     border: none;
     }
-    
-    
+
+
     body{
         background-image:url(img/rf_2021_v5.jpg);
         background-size: cover;
     }
     </style>
 <body>
- 
+
     <div class="row ">
 
     <div class="col-sm-4 col-md-4"></div>
@@ -108,7 +108,7 @@
                     </cente>
                     <br>
                     <form style="padding-top: 50px;"action="?sw=entrada" method="POST" class="form-signin" name="formlogin">
-                        
+
                         <label for="login-form-username">Usuario:</label>
                         <input type="text" class="form-control" placeholder="Ingresa tu usuario" autocomplete="on" name="user" id="user" autofocus="">
                         <br>
@@ -118,7 +118,7 @@
                         <br>
                         <br>
                         <div>
-                            <a class="btn btn-primary button button-3d button-info nomargin" href="index.html" role="button">Entrar</a>
+                            <a class="btn btn-primary button button-3d button-info nomargin" href="index.php" role="button">Entrar</a>
                         </div>
                         <br>
                     </form><br>

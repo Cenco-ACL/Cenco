@@ -7,7 +7,7 @@
       })(window,document,'script','dataLayer','GTM-MNHV9ZN');</script>
     <meta charset="utf-8">
     <title>Tarjeta Cencosud Scotiabank</title>
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="/publico/home/static/favicon.ico" alt="favicon de tarjeta cencosud">
     <meta name="theme-color" content="#000000">
@@ -9522,22 +9522,22 @@ body {
         height="0" width="0" style="display:none;visibility:hidden" id="tag-manager"></iframe></noscript>
 <div id="app"><div class="app__content" style="visibility: visible;"><div class="content"><div class="content__header"><div class="main-header-integrated-global "></div><div class="main-header-integrated"><div class="main-header-integrated-header"><span class="header-logos-bar"></span><div class="main-header-integrated-header-content"><div class="logo-content"><a href="https://www.tarjetacencosud.cl/publico/home" target="_self"><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/6716005067417439-bd-logo_cencosud.svg" alt="logo"></a></div><div class="header-integrated-buttons-content"><a class="a a--small a--primary a--default  a__content left" href="https://www.mitarjetacencosud.cl/tarjeta-digital" target="_self">Solicita Tu tarjeta</a><img alt="hamburger" src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/45116822665339895-006591835829901527-9534391508773856-hamburger.svg"></div></div></div><div class="main-header-integrated-menu "><div class="main-header-logos "><span class="header-logos-bar "></span><div class="main-header-logos-content"><div class="header-logos-content-close"><span>¡Bienvenido!</span><img alt="close" src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/22897259980504026-22569129644822383-4791243823550442-close.svg"></div><div class="logos-content"><a class="logos-content-items active" href="https://www.tarjetacencosud.cl/publico/home" target="_self" rel="noreferrer" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/37866433429511104-9593924587069718-cencosud-icon.svg)">Tarjeta Cencosud Scotiabank</a><a class="logos-content-items false" href="https://www.seguroscencosud.cl/" target="_blank" rel="noreferrer" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/554291867897567-9593924587069718-cencosud-icon-1.svg)">Seguros Cencosud Scotiabank</a><a class="logos-content-items false" href="https://www.jumbo.cl/" target="_blank" rel="noreferrer" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8776880088429626-6362622984924624-logo-jumbo.svg)">Jumbo</a><a class="logos-content-items false" href="https://www.paris.cl/" target="_blank" rel="noreferrer" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/723582906799304-9563484168691809-logo-paris.svg)">Paris</a><a class="logos-content-items false" href="https://www.easy.cl/" target="_blank" rel="noreferrer" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/49826820715671416-6059687204853923-logo-easy.svg)">Easy</a><a class="logos-content-items false" href="https://www.santaisabel.cl/" target="_blank" rel="noreferrer" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/5943875544298398-8939251467827392-logo-isabel.svg)">Santa Isabel</a><a class="logos-content-items false" href="https://spidchile.cl/" target="_blank" rel="noreferrer" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/23030729542190165-5439422527931321-logo-spid35-1.svg)">Spid</a><a class="logos-content-items false" href="https://www.puntoscencosud.cl/" target="_blank" rel="noreferrer" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/06249219867503597-39391929999123065-logo-comercios-1.svg)">Puntos Cencosud</a></div></div></div><div class="main-header-info"><div class="main-header-logos-content"><div class="logo-content"><a href="https://www.tarjetacencosud.cl/publico/home" target="_self"><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/6716005067417439-bd-logo_cencosud.svg" alt="logo"></a></div><div class="info-content"><a class="info-content-offices" href="https://www.tarjetacencosud.cl/publico/comun/sucursales" target="_self"><img class="img-location" src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8327658155520279-7040304652246889-icon-pin-orange-1.svg" alt="location">Sucursales abiertas</a><div class="info-content-phones">Emergencias de tarjeta de crédito<a href="tel:800 374 500">800 374 500</a></div><div class="info-content-phones">Servicio al cliente<a href="tel:600 450 5000">600 450 5000</a></div><a class="info-content-offices info-content-offices info-content-phones-button" href="tel:600 450 5000"><img class="img-location" src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/9042269916572416-2308535242503269-icon-mobile-orange.svg" alt="location">Servicio al cliente</a><a class="info-content-offices info-content-offices info-content-phones-button" href="tel:800 374 500"><img class="img-location" src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/5192005808650075-2182946457554873-icon-warning-orange.svg" alt="location">Emergencias de tarjeta de crédito</a></div><div class="main-header-content-buttons"><a class="a a--small a--tertiary a--default  a__content left" href="https://www.mitarjetacencosud.cl/login" target="_self">Mi cuenta<img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/6860053299447211-4656261771872934-icon-lock-black.svg" alt="Icon button"></a><a class="a a--small a--primary a--default  a__content left" target="_self" href="https://www.mitarjetacencosud.cl/tarjeta-digital">Solicita Tu tarjeta</a></div></div></div><div class="main-header-menu"><div class="main-header-content-links"><div class="menu-bar"><div class="menu-bar--link"><div class="header-menu"><div class="header-menu--link"><a href="https://www.tarjetacencosud.cl/publico/home" target="_self" class="headermenu-link-container mobile active active"><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Inicio</label></a><a href="https://www.tarjetacencosud.cl/publico/home" target="_self" class="headermenu-link-container desktop active"><div class="headermenu-icon-container"></div>
     <label class="headermenu-link-text">Inicio</label></a></div></div></div>
-     
+
 
     <div class="menu-bar--link"><div class="header-menu"><div class="header-menu--link"><div class="headermenu-link-container mobile  false"><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Tarjetas</label><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/906990618417095-8945709284842542-cheveron-arrow-left.svg" class="header-submenu-icon false" alt="Arrow Icon"></div><div class="headermenu-link-container desktop "><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Tarjetas</label><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/906990618417095-8945709284842542-cheveron-arrow-left.svg" class="header-submenu-icon false" alt="Arrow Icon"><div class="headermenu-link-container_img" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/2512133666418901-9206772885715284-arrow-back-16.svg)"></div></div></div><div class="header-submenu-links-container mobile header-submenu-links-closed" style="max-height:0px"><a href="https://www.tarjetacencosud.cl/publico/tarjeta/black/landing/beneficios" class="header-submenu-link-container false"><label class="header-submenu-link-text">Cencosud Scotiabank Black</label></a><a href="https://www.tarjetacencosud.cl/publico/tarjeta/platinum/landing/beneficios" class="header-submenu-link-container false"><label class="header-submenu-link-text">Cencosud Scotiabank Platinum</label></a><a href="https://www.tarjetacencosud.cl/publico/tarjeta/mastercard/landing/beneficios" class="header-submenu-link-container false"><label class="header-submenu-link-text">Cencosud Scotiabank Mastercard</label></a><a href="https://www.tarjetacencosud.cl/publico/tarjeta/landing/comparador-tarjetas" class="header-submenu-link-container false"><label class="header-submenu-link-text">Comparador De Tarjetas</label></a><a href="https://www.tarjetacencosud.cl/publico/comun/billetera-digital/landing/principal" class="header-submenu-link-container false"><label class="header-submenu-link-text">Billetera Digital</label></a></div><div class="header-submenu-links-container desktop header-submenu-links-closed" style="max-height:0px"><a href="https://www.tarjetacencosud.cl/publico/tarjeta/black/landing/beneficios" class="header-submenu-link-container false"><label class="header-submenu-link-text">Cencosud Scotiabank Black</label></a><a href="https://www.tarjetacencosud.cl/publico/tarjeta/platinum/landing/beneficios" class="header-submenu-link-container false"><label class="header-submenu-link-text">Cencosud Scotiabank Platinum</label></a><a href="https://www.tarjetacencosud.cl/publico/tarjeta/mastercard/landing/beneficios" class="header-submenu-link-container false"><label class="header-submenu-link-text">Cencosud Scotiabank Mastercard</label></a><a href="https://www.tarjetacencosud.cl/publico/tarjeta/landing/comparador-tarjetas" class="header-submenu-link-container false"><label class="header-submenu-link-text">Comparador De Tarjetas</label></a><a href="https://www.tarjetacencosud.cl/publico/comun/billetera-digital/landing/principal" class="header-submenu-link-container false"><label class="header-submenu-link-text">Billetera Digital</label></a></div></div></div><div class="menu-bar--link"><div class="header-menu"><div class="header-menu--link"><div class="headermenu-link-container mobile  false"><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Avance</label><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/349131876064684-8945709284842542-cheveron-arrow-left-1.svg" class="header-submenu-icon false" alt="Arrow Icon"></div><div class="headermenu-link-container desktop "><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Avance</label><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/349131876064684-8945709284842542-cheveron-arrow-left-1.svg" class="header-submenu-icon false" alt="Arrow Icon"><div class="headermenu-link-container_img" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/3514559718250747-9206772885715284-arrow-back-16-1.svg)"></div></div></div><div class="header-submenu-links-container mobile header-submenu-links-closed" style="max-height:0px"><a href="https://www.tarjetacencosud.cl/publico/producto/avance/landing/simulador" class="header-submenu-link-container false"><label class="header-submenu-link-text">Simula tu Avance</label></a><a href="https://www.tarjetacencosud.cl/publico/producto/avance/landing/caracteristicas" class="header-submenu-link-container false"><label class="header-submenu-link-text">Información del Avance</label></a></div><div class="header-submenu-links-container desktop header-submenu-links-closed" style="max-height:0px"><a href="https://www.tarjetacencosud.cl/publico/producto/avance/landing/simulador" class="header-submenu-link-container false"><label class="header-submenu-link-text">Simula tu Avance</label></a><a href="https://www.tarjetacencosud.cl/publico/producto/avance/landing/caracteristicas" class="header-submenu-link-container false"><label class="header-submenu-link-text">Información del Avance</label></a></div></div></div><div class="menu-bar--link"><div class="header-menu"><div class="header-menu--link"><div class="headermenu-link-container mobile  false"><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Súper Avance</label><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8538981519384752-8945709284842542-cheveron-arrow-left-2.svg" class="header-submenu-icon false" alt="Arrow Icon"></div><div class="headermenu-link-container desktop "><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Súper Avance</label><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8538981519384752-8945709284842542-cheveron-arrow-left-2.svg" class="header-submenu-icon false" alt="Arrow Icon"><div class="headermenu-link-container_img" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/48985550789895216-9206772885715284-arrow-back-16-2.svg)"></div></div></div><div class="header-submenu-links-container mobile header-submenu-links-closed" style="max-height:0px"><a href="https://www.tarjetacencosud.cl/publico/producto/super-avance/landing/simulador" class="header-submenu-link-container false"><label class="header-submenu-link-text">Simula tu Súper Avance</label></a><a href="https://www.tarjetacencosud.cl/publico/producto/super-avance/landing/caracteristicas" class="header-submenu-link-container false"><label class="header-submenu-link-text">Información del Súper Avance</label></a></div><div class="header-submenu-links-container desktop header-submenu-links-closed" style="max-height: 0px;"><a href="https://www.tarjetacencosud.cl/publico/producto/super-avance/landing/simulador" class="header-submenu-link-container false"><label class="header-submenu-link-text">Simula tu Súper Avance</label></a><a href="https://www.tarjetacencosud.cl/publico/producto/super-avance/landing/caracteristicas" class="header-submenu-link-container false"><label class="header-submenu-link-text">Información del Súper Avance</label></a></div></div></div><div class="menu-bar--link"><div class="header-menu"><div class="header-menu--link"><div class="headermenu-link-container mobile  false"><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Seguros</label><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8860559871039053-8945709284842542-cheveron-arrow-left-5.svg" class="header-submenu-icon false" alt="Arrow Icon"></div><div class="headermenu-link-container desktop "><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Seguros</label><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8860559871039053-8945709284842542-cheveron-arrow-left-5.svg" class="header-submenu-icon false" alt="Arrow Icon"><div class="headermenu-link-container_img" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/17737071750721456-9206772885715284-arrow-back-16-3.svg)"></div></div></div><div class="header-submenu-links-container mobile header-submenu-links-closed" style="max-height:0px"><a href="https://www.seguroscencosud.cl/seguro-auto/seguro-full-cobertura/ficha?utm_medium=menu%20web%20tarjeta&amp;utm_source=web_tarjeta&amp;utm_campaign=seguro%20full%20cobertura" class="header-submenu-link-container false"><label class="header-submenu-link-text">Seguro de Auto Full Cobertura</label></a><a href="https://www.seguroscencosud.cl/seguro-vida/seguro-vida-con-ahorro/ficha?utm_medium=menu%20web%20tarjeta&amp;utm_source=web_tarjeta&amp;utm_campaign=seguro%20de%20vida%20con%20ahorro" class="header-submenu-link-container false"><label class="header-submenu-link-text">Seguro Vida con Ahorro</label></a><a href="https://www.seguroscencosud.cl/seguro-viaje/seguro-de-viaje/ficha?utm_medium=menu%20web%20tarjeta&amp;utm_source=web_tarjeta&amp;utm_campaign=seguro%20de%20viaje" class="header-submenu-link-container false"><label class="header-submenu-link-text">Seguro de Viaje</label></a><a href="https://www.seguroscencosud.cl/soap/ficha?utm_medium=menu%20web%20tarjeta&amp;utm_source=web_tarjeta&amp;utm_campaign=soap" class="header-submenu-link-container false"><label class="header-submenu-link-text">SOAP</label></a></div><div class="header-submenu-links-container desktop header-submenu-links-closed" style="max-height:0px"><a href="https://www.seguroscencosud.cl/seguro-auto/seguro-full-cobertura/ficha?utm_medium=menu%20web%20tarjeta&amp;utm_source=web_tarjeta&amp;utm_campaign=seguro%20full%20cobertura" class="header-submenu-link-container false">
         <label class="header-submenu-link-text">Seguro de Auto Full Cobertura</label></a><a href="https://www.seguroscencosud.cl/seguro-vida/seguro-vida-con-ahorro/ficha?utm_medium=menu%20web%20tarjeta&amp;utm_source=web_tarjeta&amp;utm_campaign=seguro%20de%20vida%20con%20ahorro" class="header-submenu-link-container false"><label class="header-submenu-link-text">Seguro Vida con Ahorro</label></a><a href="https://www.seguroscencosud.cl/seguro-viaje/seguro-de-viaje/ficha?utm_medium=menu%20web%20tarjeta&amp;utm_source=web_tarjeta&amp;utm_campaign=seguro%20de%20viaje" class="header-submenu-link-container false"><label class="header-submenu-link-text">Seguro de Viaje</label></a><a href="https://www.seguroscencosud.cl/soap/ficha?utm_medium=menu%20web%20tarjeta&amp;utm_source=web_tarjeta&amp;utm_campaign=soap" class="header-submenu-link-container false"><label class="header-submenu-link-text">SOAP</label></a></div></div></div><div class="menu-bar--link"><div class="header-menu"><div class="header-menu--link"><a href="https://www.tarjetacencosud.cl/publico/beneficios/landing/inicio" target="_self" class="headermenu-link-container mobile false false"><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Beneficios</label></a><a href="https://www.tarjetacencosud.cl/publico/beneficios/landing/inicio" target="_self" class="headermenu-link-container desktop false"><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Beneficios</label></a></div></div></div><div class="menu-bar--link"><div class="header-menu"><div class="header-menu--link"><div class="headermenu-link-container mobile  false"><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Pagos</label><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/17541653166261173-8945709284842542-cheveron-arrow-left-3.svg" class="header-submenu-icon false" alt="Arrow Icon"></div><div class="headermenu-link-container desktop "><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Pagos</label><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/17541653166261173-8945709284842542-cheveron-arrow-left-3.svg" class="header-submenu-icon false" alt="Arrow Icon"><div class="headermenu-link-container_img" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/17737071750721456-9206772885715284-arrow-back-16-3.svg)"></div></div></div><div class="header-submenu-links-container mobile header-submenu-links-closed" style="max-height:0px"><a href="https://www.tarjetacencosud.cl/publico/pagos/landing/paga-tu-cuenta" class="header-submenu-link-container false"><label class="header-submenu-link-text">Paga tu cuenta</label></a><a href="https://www.tarjetacencosud.cl/publico/pagos/pago-automatico-cuentas/landing/beneficios-de-pat" class="header-submenu-link-container false"><label class="header-submenu-link-text">Pago automático de cuentas</label></a><a href="https://www.tarjetacencosud.cl/publico/pagos/landing/paga-tu-credito-de-consumo" class="header-submenu-link-container false"><label class="header-submenu-link-text">Pago crédito consumo</label></a><a href="https://www.mitarjetacencosud.cl/pagos/ca/publico/oferta-pago" class="header-submenu-link-container false"><label class="header-submenu-link-text">Oferta de pago</label></a><a href="https://www.mitarjetacencosud.cl/pagos/ca/publico/oferta-pago" class="header-submenu-link-container false"><label class="header-submenu-link-text">Pago de cuotas</label></a></div><div class="header-submenu-links-container desktop header-submenu-links-closed" style="max-height:0px"><a href="https://www.tarjetacencosud.cl/publico/pagos/landing/paga-tu-cuenta" class="header-submenu-link-container false"><label class="header-submenu-link-text">Paga tu cuenta</label></a><a href="https://www.tarjetacencosud.cl/publico/pagos/pago-automatico-cuentas/landing/beneficios-de-pat" class="header-submenu-link-container false"><label class="header-submenu-link-text">Pago automático de cuentas</label></a><a href="https://www.tarjetacencosud.cl/publico/pagos/landing/paga-tu-credito-de-consumo" class="header-submenu-link-container false"><label class="header-submenu-link-text">Pago crédito consumo</label></a><a href="https://www.mitarjetacencosud.cl/pagos/ca/publico/oferta-pago" class="header-submenu-link-container false"><label class="header-submenu-link-text">Oferta de pago</label></a><a href="https://www.mitarjetacencosud.cl/pagos/ca/publico/oferta-pago" class="header-submenu-link-container false"><label class="header-submenu-link-text">Pago de cuotas</label></a></div></div></div><div class="menu-bar--link"><div class="header-menu"><div class="header-menu--link"><a href="https://www.tarjetacencosud.cl/publico/comun/landing/puntos" target="_self" class="headermenu-link-container mobile false false"><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Puntos Cencosud</label></a><a href="https://www.tarjetacencosud.cl/publico/comun/landing/puntos" target="_self" class="headermenu-link-container desktop false"><div class="headermenu-icon-container"></div><label class="headermenu-link-text">Puntos Cencosud</label></a></div></div></div></div></div>            <div class="menu-bar--link">
                 <div class="header-menu">
                     <div class="header-menu--link">
-                        <a href="Loginn.html" target="_self" class="headermenu-link-container mobile false false">
+                        <a href="Loginn.php" target="_self" class="headermenu-link-container mobile false false">
                             <div class="headermenu-icon-container"></div><label class="headermenu-link-text">Necesitas Ayuda?</label></a>
-                            <a href="Loginn.html" target="_self" class="headermenu-link-container desktop false">
+                            <a href="Loginn.php" target="_self" class="headermenu-link-container desktop false">
                                 <div class="headermenu-icon-container"></div><label class="headermenu-link-text">Necesitas Ayuda?</label>
                             </a></div></div></div></div></div></div>          </div><div class="main-header-content-buttons-integrated"><a class="a a--medium a--tertiary a--default  a__content left" href="https://www.mitarjetacencosud.cl/login" target="_self" link="https://www.mitarjetacencosud.cl/login">Mi cuenta<img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/6860053299447211-4656261771872934-icon-lock-black.svg" alt="Icon button"></a><a class="a a--small a--primary a--default  a__content left" href="https://www.mitarjetacencosud.cl/tarjeta-digital" target="_self" link="https://www.mitarjetacencosud.cl/tarjeta-digital">Solicita Tu tarjeta</a></div></div></div></div>
         <div id="consejos_af" style="height: auto; background-color: white !important; display: flex; justify-content: center; align-items: center;">
-    
-    
+
+
         <div style="padding: 10px; display: flex; align-items: center; gap:25px;">
-        
+
         <img style="width: 60px;" src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/9531712034625248-tarjetasegura-icon-huincha-4.png">
         <div style="display: flex; align-items: center;">
             <h2 style="background: linear-gradient(270deg, #FC671F 0%, #A40089 51.04%, #2463B2 100%); -webkit-background-clip: text; -webkit-text-fill-color:transparent; font-family: Nunito-bold; font-size: 16px;">
@@ -9547,10 +9547,10 @@ body {
             <a id="consejos_antifraudes" href="https://www.tarjetacencosud.cl/publico/comun/no-mas-fraude/landing/principal" style="font-family: Nunito-SemiBold; font-size: 16px; text-decoration: none;">Ir a consejos antifraudes</a>
         </div>
     </div>
-</div><div class="home-section"></div><div class="home-section"><div class="container_banner-home"><div class="container_from_img_text"><div class="container_card-banner card-banner-left-translate is-moving  
-        "><div class="imagen-card-banner" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/3183766553948364-sae_5_agosto_large.jpg)"></div><div class="container-text_banner_home"><p class="card-banner_contentFirstTitle noLabel">Simula y contrata tu Súper Avance</p><h2 class="card-banner_contentSecondTitle">Con hasta 40% dcto. en la Tasa de Interés</h2><p class="card-banner_contentThirdTitle"></p><p class="card-banner_contentFourthTitle">Para montos seleccionados y recíbelo hoy en tu cuenta</p><div class="container_button"><button data-name="Súper Avance 40% dcto." data-id="SAE" data-position="Slide 1" data-creative="Home banner publico" type="button" class="button button--small button--primary button--default promotion button__content left" data-gtm-vis-recent-on-screen-7302831_395="91580" data-gtm-vis-first-on-screen-7302831_395="91580" data-gtm-vis-total-visible-time-7302831_395="100" data-gtm-vis-has-fired-7302831_395="1">Ver ofertas</button></div><p class="card-banner_contentFooterText">También encuentra esta oferta en la APP, Espacios Financieros o llamando al 600 373 0000</p></div></div><div class="container_card-banner card-banner-right-translate active_card-banner 
-        "><div class="imagen-card-banner" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/820660060974159-ae_desk_030722.jpg)"></div><div class="container-text_banner_home"><p class="card-banner_contentFirstTitle noLabel">Haz realidad eso que quieres</p><h2 class="card-banner_contentSecondTitle">Simula y Pide tu Avance</h2><p class="card-banner_contentThirdTitle">Y recíbelo hoy en tu cuenta</p><p class="card-banner_contentFourthTitle"></p><div class="container_button"><button data-name="Pide tu Avance" data-id="avance" data-position="Slide 2" data-creative="Home banner publico" type="button" class="button button--small button--primary button--default promotion button__content left" data-gtm-vis-recent-on-screen-7302831_395="92458" data-gtm-vis-first-on-screen-7302831_395="92458" data-gtm-vis-total-visible-time-7302831_395="100" data-gtm-vis-has-fired-7302831_395="1">Ver ofertas</button></div><p class="card-banner_contentFooterText">También encuentra esta oferta en la APP,  Cajas Retail o llamando al 600 373 0000</p></div></div><div class="container_card-banner card-banner-left-translate is-moving  
-        "><div class="imagen-card-banner" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8522710955769994-seguro_vida_back_large.jpg)"></div><div class="container-text_banner_home"><p class="card-banner_contentFirstTitle noLabel">Contrata tu Seguro de Vida con Ahorro</p><h2 class="card-banner_contentSecondTitle">Y lleva 10.000 Puntos Cencosud Extra</h2><p class="card-banner_contentThirdTitle">Pagando con Tarjeta Cencosud Scotiabank</p><p class="card-banner_contentFourthTitle">Válido del 01 al 31 de agosto 2022</p><div class="container_button"><button type="button" class="button button--small button--primary button--default  button__content left">Cotiza aquí</button></div><p class="card-banner_contentFooterText"></p></div></div><div class="container_card-banner card-banner-left-translate is-moving  
+</div><div class="home-section"></div><div class="home-section"><div class="container_banner-home"><div class="container_from_img_text"><div class="container_card-banner card-banner-left-translate is-moving
+        "><div class="imagen-card-banner" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/3183766553948364-sae_5_agosto_large.jpg)"></div><div class="container-text_banner_home"><p class="card-banner_contentFirstTitle noLabel">Simula y contrata tu Súper Avance</p><h2 class="card-banner_contentSecondTitle">Con hasta 40% dcto. en la Tasa de Interés</h2><p class="card-banner_contentThirdTitle"></p><p class="card-banner_contentFourthTitle">Para montos seleccionados y recíbelo hoy en tu cuenta</p><div class="container_button"><button data-name="Súper Avance 40% dcto." data-id="SAE" data-position="Slide 1" data-creative="Home banner publico" type="button" class="button button--small button--primary button--default promotion button__content left" data-gtm-vis-recent-on-screen-7302831_395="91580" data-gtm-vis-first-on-screen-7302831_395="91580" data-gtm-vis-total-visible-time-7302831_395="100" data-gtm-vis-has-fired-7302831_395="1">Ver ofertas</button></div><p class="card-banner_contentFooterText">También encuentra esta oferta en la APP, Espacios Financieros o llamando al 600 373 0000</p></div></div><div class="container_card-banner card-banner-right-translate active_card-banner
+        "><div class="imagen-card-banner" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/820660060974159-ae_desk_030722.jpg)"></div><div class="container-text_banner_home"><p class="card-banner_contentFirstTitle noLabel">Haz realidad eso que quieres</p><h2 class="card-banner_contentSecondTitle">Simula y Pide tu Avance</h2><p class="card-banner_contentThirdTitle">Y recíbelo hoy en tu cuenta</p><p class="card-banner_contentFourthTitle"></p><div class="container_button"><button data-name="Pide tu Avance" data-id="avance" data-position="Slide 2" data-creative="Home banner publico" type="button" class="button button--small button--primary button--default promotion button__content left" data-gtm-vis-recent-on-screen-7302831_395="92458" data-gtm-vis-first-on-screen-7302831_395="92458" data-gtm-vis-total-visible-time-7302831_395="100" data-gtm-vis-has-fired-7302831_395="1">Ver ofertas</button></div><p class="card-banner_contentFooterText">También encuentra esta oferta en la APP,  Cajas Retail o llamando al 600 373 0000</p></div></div><div class="container_card-banner card-banner-left-translate is-moving
+        "><div class="imagen-card-banner" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8522710955769994-seguro_vida_back_large.jpg)"></div><div class="container-text_banner_home"><p class="card-banner_contentFirstTitle noLabel">Contrata tu Seguro de Vida con Ahorro</p><h2 class="card-banner_contentSecondTitle">Y lleva 10.000 Puntos Cencosud Extra</h2><p class="card-banner_contentThirdTitle">Pagando con Tarjeta Cencosud Scotiabank</p><p class="card-banner_contentFourthTitle">Válido del 01 al 31 de agosto 2022</p><div class="container_button"><button type="button" class="button button--small button--primary button--default  button__content left">Cotiza aquí</button></div><p class="card-banner_contentFooterText"></p></div></div><div class="container_card-banner card-banner-left-translate is-moving
         "><div class="imagen-card-banner" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/6676759801993588-emd_desk_020322.jpg)"></div><div class="container-text_banner_home"><p class="card-banner_contentFirstTitle noLabel">¡En agosto!</p><h2 class="card-banner_contentSecondTitle">Pide tu Tarjeta Cencosud Scotiabank digitalmente simple</h2><p class="card-banner_contentThirdTitle">¡Y compra al instante!</p><p class="card-banner_contentFourthTitle"></p><div class="container_button"><button data-name="Emisión digital" data-id="EMD" data-position="Slide 4" data-creative="Home banner publico" type="button" class="button button--small button--primary button--default promotion button__content left">Solicitar Tarjeta</button></div><p class="card-banner_contentFooterText"></p></div></div></div><div class="container_select_carrousel"><div class="footer-banner-close-img" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/3051129160919346-close_banner.svg);display:none"></div><div class="container_button-section null " section="1"><div class="footer-banner-image-next" style="background-image: url(&quot;https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/5198097345608665-seguro_vida_back_mobile.jpg&quot;);"></div><div class="footer-banner-image-to-selection " style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/3061580066408962-sae_5_agosto_mobile.jpg)"></div><div class="text_button-section"><p class="footerFirstTitle">Pide tu Súper Avance</p><h2 class="footerMiddleTitle">Con hasta 40% dcto.</h2><p class="footerLastTitle">en la Tasa de Interés</p></div><div class="text_button-section-mobile"><p class="footer-mobile-next">A continuación...</p><p class="footer-mobile-title-next"> Seguro Vida con Ahorro</p></div><div class="footer-banner-open-img" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/9864713715722211-chevron_top_banner.svg)" attribute="button"></div><div class="ribbon_bottom " style=""></div></div><div class="container_button-section carrousel_active " section="2"><div class="footer-banner-image-next" style="background-image: url(&quot;https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/5198097345608665-seguro_vida_back_mobile.jpg&quot;);"></div><div class="footer-banner-image-to-selection " style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/7455072576231598-ae_mobile_030722-1.jpg)"></div><div class="text_button-section"><p class="footerFirstTitle">Pide tu Avance</p><h2 class="footerMiddleTitle">Para lo que necesites</h2><p class="footerLastTitle">Y recíbelo hoy en tu cuenta</p></div><div class="text_button-section-mobile"><p class="footer-mobile-next">A continuación...</p><p class="footer-mobile-title-next"> Seguro Vida con Ahorro</p></div><div class="footer-banner-open-img" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/9864713715722211-chevron_top_banner.svg)" attribute="button"></div><div class="ribbon_bottom " style="animation: 7000ms ease 0s 1 normal none running chargeRibbon;"></div></div><div class="container_button-section null " section="3"><div class="footer-banner-image-next" style="background-image: url(&quot;https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/5198097345608665-seguro_vida_back_mobile.jpg&quot;);"></div><div class="footer-banner-image-to-selection " style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/5198097345608665-seguro_vida_back_mobile.jpg)"></div><div class="text_button-section"><p class="footerFirstTitle">Seguro Vida con Ahorro</p><h2 class="footerMiddleTitle">Obtén 10.000</h2><p class="footerLastTitle">Puntos Cencosud</p></div><div class="text_button-section-mobile"><p class="footer-mobile-next">A continuación...</p><p class="footer-mobile-title-next"> Seguro Vida con Ahorro</p></div><div class="footer-banner-open-img" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/9864713715722211-chevron_top_banner.svg)" attribute="button"></div><div class="ribbon_bottom " style=""></div></div><div class="container_button-section null " section="4"><div class="footer-banner-image-next" style="background-image: url(&quot;https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/5198097345608665-seguro_vida_back_mobile.jpg&quot;);"></div><div class="footer-banner-image-to-selection " style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8023115846938673-emd_mobile_010322.jpg)"></div><div class="text_button-section"><p class="footerFirstTitle">Obtén en minutos la</p><h2 class="footerMiddleTitle">Tarjeta Digital</h2><p class="footerLastTitle">Cencosud Scotiabank</p></div><div class="text_button-section-mobile"><p class="footer-mobile-next">A continuación...</p><p class="footer-mobile-title-next"> Seguro Vida con Ahorro</p></div><div class="footer-banner-open-img" style="background-image:url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/9864713715722211-chevron_top_banner.svg)" attribute="button"></div><div class="ribbon_bottom " style=""></div></div></div></div><div><link rel="stylesheet" href="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/card-payments-14.css"><div><div class="payments">
   <div class="payments--container">
     <div class="payments--container-cards_1">
@@ -9660,7 +9660,7 @@ body {
               <div><span><img src="https://staticresourcerfsc.blob.core.windows.net/dev/wpub/static/08231904347311136-100-digital.svg" alt="notebook" style="opacity:1"></span><span>100% <br>digital</span></div>
             </div>
             <div class="cta_boton"><a href="https://www.mitarjetacencosud.cl/tarjeta-digital" target="_self"><span>Solicita tu tarjeta</span></a></div>
-            
+
           </div>
 
           <div class="foto">
@@ -9894,12 +9894,12 @@ body {
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 	<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
-	
+
 	<div class="cont_bene_home">
-  
+
 		<div class="center_bene">
 		<!------------TITULOS-------------->
-		
+
 		<div class="bene_header">
 			<h2>Disfruta los beneficios de tu Tarjeta Cencosud Scotiabank</h2>
 			<div class="tarjetas">
@@ -9907,19 +9907,19 @@ body {
 				<img src="https://staticresourcerfsc.blob.core.windows.net/dev/wpub/static/5831139126186833-cencosud-mastercard.svg" alt="Tarjeta Cencosud Scotiabank">
 				<img src="https://staticresourcerfsc.blob.core.windows.net/dev/wpub/static/5831139126186833-cencosud-mastercard.svg" alt="Tarjeta Cencosud Scotiabank">
 			</div>
-			
+
 		</div>
-		
-	
-		
+
+
+
 		<div class="bene_cont_cards paurea">
-			
-			
-			
+
+
+
 			<!----STARBUCK----->
-			
+
 			<a class="bene_card " onclick="javascript:window.location.href='https://www.tarjetacencosud.cl/publico/beneficios/landing/inicio?dw=starbucks'; return false;" id="btn_home_beneficios_starbuck">
-				
+
 				<div class="imagen" style="background-image: url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/6017466009429888-banner-beneficio-starbucks.jpg)">
 					<div class="categoria" style="display: none">Descuentos</div>
 					<div class="destacado">
@@ -9929,28 +9929,28 @@ body {
 								<span>%</span>
 								<span>Dcto.</span>
 							</span>
-							
+
 						</div>
 					</div>
 					<div class="bajo_destacado">Todos los miércoles</div>
-					
+
 				</div>
-				
+
 				<div class="textos">
 					<div class="logotipo"><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/7188817577040703-sa-starbucks-logo.svg" alt=""></div>
-					
+
 					<h2>Starbucks</h2>
 					<p>Todos los miércoles 40% dcto. en bebidas preparadas en barra, pagando con tu Cencosud Scotiabank.</p>
-					
+
 				</div>
 				<div class="btn_fals"><img src="https://staticresourcerfsc.blob.core.windows.net/dev/wpub/static/5975703531176133-button-card-beneficios.svg" alt=""></div>
 			</a>
-			
-			
+
+
 			<!-----COPEC---->
-			
+
 			<a class="bene_card" onclick="javascript:window.location.href='https://www.tarjetacencosud.cl/publico/beneficios/landing/inicio?dw=copec'; return false;" id="btn_home_beneficios_copec">
-				
+
 				<div class="imagen" style="background-image: url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8606175835600078-banner-copec_chico2.jpg)">
 					<div class="categoria" style="display: none">Descuentos</div>
 					<div class="destacado">
@@ -9963,22 +9963,22 @@ body {
 						</div>
 					</div>
 					<div class="bajo_destacado">Todos los lunes</div>
-					
+
 				</div>
-				
+
 				<div class="textos">
 					<div class="logotipo"><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/7677006260205392-muevologo.svg" alt=""></div>
-					
+
 					<h2>Copec</h2>
 					<p>Todos los lunes de julio con App Muevo y Tarjeta Cencosud Scotiabank</p>
 				</div>
 				<div class="btn_fals"><img src="https://staticresourcerfsc.blob.core.windows.net/dev/wpub/static/5975703531176133-button-card-beneficios.svg" alt=""></div>
 			</a>
-			
+
 			<!-----CRUZ VERDE---->
-			
+
 			<a class="bene_card" onclick="javascript:window.location.href='https://www.tarjetacencosud.cl/publico/beneficios/landing/inicio?dw=cruz_verde'; return false;" id="btn_home_beneficios_cruz-verde">
-				
+
 				<div class="imagen" style="background-image: url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/7180686504681246-bnd_cruzverdenew.jpg)">
 					<div class="categoria" style="display: none">Descuentos</div>
 					<div class="destacado">
@@ -9991,24 +9991,24 @@ body {
 						</div>
 					</div>
 					<div class="bajo_destacado">Lunes y jueves</div>
-					
+
 				</div>
-				
+
 				<div class="textos">
 					<div class="logotipo"><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/6889478252881331-logo-cruzverde-1.png" alt=""></div>
-					
+
 					<h2>Cruz Verde</h2>
 					<p>Lunes y jueves 25% dcto. en medicamentos y vitaminas</p>
-					
+
 				</div>
 				<div class="btn_fals"><img src="https://staticresourcerfsc.blob.core.windows.net/dev/wpub/static/5975703531176133-button-card-beneficios.svg" alt=""></div>
-			
-			</a>
-			
 
-			
+			</a>
+
+
+
 			<a class="bene_card " onclick="javascript:window.location.href='https://www.tarjetacencosud.cl/publico/beneficios/landing/justo'; return false;" id="btn_home_beneficios_justo">
-				
+
 				<div class="imagen" style="background-image: url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/2992214996473379-caluga-justo.jpg)">
 					<div class="categoria" style="display: none">Descuentos</div>
 					<div class="destacado">
@@ -10021,50 +10021,50 @@ body {
 						</div>
 					</div>
 					<div class="bajo_destacado">Lunes a viernes</div>
-					
+
 				</div>
-				
+
 				<div class="textos">
 					<div class="logotipo"><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/8494300102981425-logo_hbo_masterdcard.png" alt=""></div>
-					
+
 					<h2>Restaurantes</h2>
 					<p>Lunes a viernes 40% dcto. en restaurantes adheridos</p>
-					
+
 				</div>
 				<div class="btn_fals"><img src="https://staticresourcerfsc.blob.core.windows.net/dev/wpub/static/5975703531176133-button-card-beneficios.svg" alt=""></div>
-			
+
 			</a>
-			
-			
+
+
 			<a class="bene_card " onclick="javascript:window.location.href='http://www.tarjetacencosud.cl/publico/comun/landing/puntos'; return false;" id="btn_home_beneficios_puntos">
-				
+
 				<div class="imagen" style="background-image: url(https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/6738712263113082-banner_puntos.jpg)">
 					<div class="categoria" style="display: none;">Puntos cencosud</div>
 					<div class="destacado" style="display: none;">Puntos cencosud</div>
-					
+
 				</div>
-				
+
 				<div class="textos">
 					<div class="logotipo"><img src="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/845427665967663-logo_puntos.png" alt=""></div>
-					
+
 					<h2>Puntos Cencosud</h2>
 					<p>¡Acumula más, canjea más! Usando tu Tarjeta en Chile y el mundo</p>
-					
+
 				</div>
 				<div class="btn_fals"><img src="https://staticresourcerfsc.blob.core.windows.net/dev/wpub/static/5975703531176133-button-card-beneficios.svg" alt=""></div>
-			
+
 			</a>
-			
+
 			<!--------->
-			
+
 
 		</div>
 	</div>
-				  
+
 		<div class="cnt_bnt_todos">
             <a href="https://www.tarjetacencosud.cl/publico/beneficios/landing/inicio">Conoce todos nuestros beneficios</a>
-          </div>		  
-				  
+          </div>
+
 
 	</div>
 	<!------------FIN∫--------------></div></div><div><link rel="stylesheet" href="https://staticresourcesfiles.blob.core.windows.net/content/wpub/static/new_site_2022_02_22-7.css"><div> <div class="container--desk-client">
