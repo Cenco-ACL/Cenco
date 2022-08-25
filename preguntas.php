@@ -15,7 +15,7 @@
           <img src="img/logo2022.png" alt="" width="200" height="100">
         </a>
       </div>
-    </nav><br><br>
+    </nav>
     <div class="container">
     <div class="mx-auto">
       <div class="row">
@@ -47,7 +47,7 @@
         <div class="col-md-1">
           <br>
           <div class="progress" style="margin-left:20px;">
-            <div class="progress-bar w-0" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" id="barra"></div>
+            <div class="progress-bar w-100" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" id="barra"></div>
           </div>
         </div>
         <div class="col-md-1">
@@ -57,16 +57,16 @@
         <div class="col-md-1" >
           <br>
           <div class="progress" style="margin-left:20px;">
-            <div class="progress-bar w-0" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" ></div>
+            <div class="progress-bar w-50" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" ></div>
           </div>
         </div>
         <div class="col-md-1">
           <center><img src="img/5.png" alt="" width="100" height="100"></center>
-          <center><b>Recibimos tu solicitud</b></center>
-        </div> 
+          <center><b>Comprobante ingreso solicitud</b></center>
+        </div>
         <div class="col-md-1"></div>
         </div>
-</div>  
+</div>
 
         <div class="container">
           <div class="row">

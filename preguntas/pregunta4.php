@@ -1,3 +1,22 @@
+<?php
+$filename=$_FILES['']
+$target_dir = "uploads/.$filename";
+$target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
+$uploadOk = 1;
+$imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
+// Check if image file is a actual image or fake image
+if(isset($_POST["submit"])) {
+  $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
+  if($check !== false) {
+    echo "File is an image - " . $check["mime"] . ".";
+    $uploadOk = 1;
+  } else {
+    echo "File is not an image.";
+    $uploadOk = 0;
+  }
+}
+
+?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -44,7 +63,7 @@
         </div>
         <div class="col-md-1">
           <center><img src="../img/3.png" alt="" width="100" height="100"></center>
-          <center><b>Resumen de tu caso</b></center>
+          <center><b>Cuéntanos lo sucedido</b></center>
         </div>
         <div class="col-md-1">
           <br>
@@ -54,7 +73,7 @@
         </div>
         <div class="col-md-1">
           <center><img src="../img/4.png" alt="" width="100" height="100"></center>
-          <center><b>Cuéntanos lo sucedido</b></center>
+          <center><b>Resumen de tu caso</b></center>
         </div>
         <div class="col-md-1" >
           <br>
@@ -64,11 +83,11 @@
         </div>
         <div class="col-md-1">
           <center><img src="../img/5.png" alt="" width="100" height="100"></center>
-          <center><b>Recibimos tu solicitud</b></center>
-        </div> 
+          <center><b>Comprobante ingreso solicitud</b></center>
+        </div>
         <div class="col-md-1"></div>
         </div>
-</div>  
+</div>
         <div class="container">
           <div class="row">
             <div class="col-md-2"></div>
@@ -76,7 +95,7 @@
                 <br>
                 <div class="card">
                   <div class="card-body">
-                   
+                    <?php echo $_POST['archivo']; ?>
                   </div>
               </div>
               <div class="col-md-4"></div>

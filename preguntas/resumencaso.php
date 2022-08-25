@@ -44,31 +44,33 @@
         </div>
         <div class="col-md-1">
           <center><img src="../img/3.png" alt="" width="100" height="100"></center>
-          <center><b>Resumen de tu caso</b></center>
+          <center><b>Cuéntanos lo sucedido</b></center>
         </div>
         <div class="col-md-1">
           <br>
           <div class="progress" style="margin-left:20px;">
-            <div class="progress-bar w-50" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" id="barra"></div>
+            <div class="progress-bar w-100" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" id="barra"></div>
           </div>
         </div>
         <div class="col-md-1">
           <center><img src="../img/4.png" alt="" width="100" height="100"></center>
-          <center><b>Cuéntanos lo sucedido</b></center>
+          <center><b>Resumen de tu caso</b></center>
         </div>
         <div class="col-md-1" >
           <br>
           <div class="progress" style="margin-left:20px;">
-            <div class="progress-bar w-0" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" ></div>
+            <div class="progress-bar w-50" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" ></div>
           </div>
         </div>
         <div class="col-md-1">
           <center><img src="../img/5.png" alt="" width="100" height="100"></center>
-          <center><b>Recibimos tu solicitud</b></center>
-        </div> 
+          <center><b>Comprobante ingreso solicitud</b></center>
+        </div>
         <div class="col-md-1"></div>
         </div>
-</div>  
+        <div class="col-md-1"></div>
+        </div>
+</div>
         <div class="container">
           <div class="row">
             <div class="col-md-2"></div>
@@ -76,7 +78,7 @@
                 <br>
                 <div class="card">
                   <div class="card-body">
-                    <form class="" action="../preguntas.php" method="post">
+                    <form class="" action="pregunta4.php" method="post">
                       <h5 class="card-title text-center">Resumen de tu caso</h5>
                       <p class="card-text text-center">¿Se adecua con tu caso?</p>
                       <?php
@@ -86,13 +88,11 @@
                       echo "<input type='hidden' name='cat' value='.$categoria.'>";
                       echo "<input type='hidden' name='det' value='.$detalle.'>";
                       ?>
-                      <b>Categoria: <?php echo $categoria;?></b><br>
-                      <b>Detalle: <?php echo $detalle;?></b><br>
                       <div class="form-group">
-                        <label for="exampleFormControlTextarea2">Por favor escriba su detalle</label>
-                        <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3"></textarea>
+                        <label for="tadetalle">Por favor escriba su detalle</label>
+                        <textarea class="form-control rounded-0" id="tadetalle" name="tadetalle" rows="3" required></textarea>
                       </div>
-                      <input type="file" class="form-control" name="archivo" value="" required>
+                      <input type="file" class="form-control" id="archivo" name="archivo" value="">
 
                       <br>
                       <!-- Button trigger modal -->
