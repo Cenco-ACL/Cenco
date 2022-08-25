@@ -11,7 +11,7 @@
   <body>
     <nav class="navbar navbar-light bg-light">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/logo2022.png" alt="" width="200" height="100">
         </a>
       </div>

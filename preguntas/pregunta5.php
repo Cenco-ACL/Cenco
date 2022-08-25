@@ -15,7 +15,7 @@
   <body>
     <nav class="navbar navbar-light bg-light">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.php">
           <img src="../img/logo2022.png" alt="" width="200" height="100">
         </a>
       </div>
@@ -78,8 +78,14 @@
                 <br>
                 <div class="card">
                   <div class="card-body text-center">
-                  <i class="fa-solid fa-circle-check fa-10x" style="color: green"></i><br><br>
-                  <label style="font-size:30px;"> Procesamos correctamente tu solicitud </label>
+                    <b>Tu caso fue ingresado con éxito</b>
+                    <i class="fa-solid fa-circle-check fa-1x" style="color: green"></i><br>
+                    Tú número de caso es el <b>45000</b><br>
+                    Te responderemos en un plazo máximo de <b>5 días hábiles</b>
+                    <br>
+                    Te enviamos está información por correo <br>
+                    Sigue tu caso en <a href="../index.php">tarjetacencosud.cl</a><br>
+                    <a href="../index.php" class="btn btn-danger btn-lg">Volver</a>
                   </div>
               </div>
               <div class="col-md-4"></div>
