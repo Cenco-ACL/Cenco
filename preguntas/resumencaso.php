@@ -79,20 +79,20 @@
                 <div class="card">
                   <div class="card-body">
                     <form class="" action="pregunta4.php" method="post">
-                      <h5 class="card-title text-center">Resumen de tu caso</h5>
-                      <p class="card-text text-center">¿Se adecua con tu caso?</p>
+                      <h5 class="card-title text-center">Cuéntanos más</h5>
+                      <p class="card-text text-center">¿Podrías explicar lo acontecido?</p>
                       <?php
                       $categoria=$_POST["respuesta1"];
                       $detalle=$_POST["respuesta2"];
 
-                      echo "<input type='hidden' name='cat' value='.$categoria.'>";
-                      echo "<input type='hidden' name='det' value='.$detalle.'>";
+                      echo "<input type='hidden' name='categoria' value='$categoria'>";
+                      echo "<input type='hidden' name='detalle' value='$detalle'>";
                       ?>
                       <div class="form-group">
                         <label for="tadetalle">Por favor escriba su detalle</label>
                         <textarea class="form-control rounded-0" id="tadetalle" name="tadetalle" rows="3" required></textarea>
                       </div>
-                      <input type="file" class="form-control" id="archivo" name="archivo" value="">
+                      <input type="file" class="form-control" name="archivo" value="">
 
                       <br>
                       <!-- Button trigger modal -->
@@ -101,7 +101,7 @@
                       </button>&nbsp&nbsp&nbsp
                       <button type="submit" class="btn btn-primary" name="confirmar">Confirmar Envio</button>
                   </div>
-                    </form>
+                </form>
                   </div>
               </div>
               <div class="col-md-4"></div>
@@ -130,9 +130,6 @@
                   <p><a href="../preguntas.php" class="tooltip-test btn btn-primary btn-lg" title="Cancelar Reclamo">Cancelar Reclamo</a>
               </div>
             </div>
-
-
-
           </div>
         </div>
       </div>

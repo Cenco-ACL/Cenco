@@ -1,22 +1,4 @@
-<?php
-$filename=$_FILES['']
-$target_dir = "uploads/.$filename";
-$target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
-$uploadOk = 1;
-$imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
-// Check if image file is a actual image or fake image
-if(isset($_POST["submit"])) {
-  $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
-  if($check !== false) {
-    echo "File is an image - " . $check["mime"] . ".";
-    $uploadOk = 1;
-  } else {
-    echo "File is not an image.";
-    $uploadOk = 0;
-  }
-}
 
-?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -95,7 +77,28 @@ if(isset($_POST["submit"])) {
                 <br>
                 <div class="card">
                   <div class="card-body">
-                    <?php echo $_POST['archivo']; ?>
+                    <form class="" action="pregunta5.php" method="post">
+                      <?php
+                      $categoria=$_POST["categoria"];
+                      $detalle=$_POST["detalle"];
+                      $tadetalle=$_POST["tadetalle"];
+                      $archivo=$_POST["archivo"];
+                      echo "<input type='hidden' name='categoria' value='$categoria'>";
+                      echo "<input type='hidden' name='detalle' value='$detalle'>";
+                      echo "<input type='hidden' name='tadetalle' value='$tadetalle'>";
+                      echo "<input type='hidden' name='archivo' value='$archivo'>";
+                      ?>
+                    <h5 class="card-title text-center">Resumen de tu caso</h5>
+                    <p class="card-text text-center">¿Se adecua con tu caso?</p>
+                    <b>Categoría: <?php echo $_POST['categoria']; ?></b><br>
+                    <b>Detalle: <?php echo $_POST['detalle']; ?></b><br>
+                    <b>Comentarios:<?php echo $_POST['tadetalle']; ?></b><br>
+                    <b>Archivo Adjunto:<?php echo $_POST['archivo'];  ?></b><br>
+                    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#modalCerrar">
+                      Cerrar Reclamo
+                    </button>&nbsp&nbsp&nbsp
+                    <button type="submit" class="btn btn-primary" name="confirmar">Confirmar Envio</button>
+                  </form>
                   </div>
               </div>
               <div class="col-md-4"></div>
@@ -131,6 +134,35 @@ if(isset($_POST["submit"])) {
         </div>
       </div>
     </div>
+    <!--class="modal-dialog modal-dialog-centered"-->
+        <!--Modal-->
+        <!-- Modal -->
+        <div class="modal fade" id="modalCerrar" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">¿Desea cancelar el reclamo?</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">&nbspX&nbsp</button>
+              </div>
+              <div class="modal-body">
+                <div class="row">
+                  <div class="col-md-4">
+                    <button type="button" class="btn btn-danger btn-lg" data-bs-dismiss="modal">Volver al reclamo</button>
+                  </div>
+                  <div class="col-md-4">
+                    <p><a href="../bot.php" class="tooltip-test btn btn-primary btn-lg" title="Ir al Bot">Ayuda con Bot</a>
+                  </div>
+                  <div class="col-md-4">
+                      <p><a href="../preguntas.php" class="tooltip-test btn btn-primary btn-lg" title="Cancelar Reclamo">Cancelar Reclamo</a>
+                  </div>
+                </div>
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
     <br><br><br>
     <footer class="row">
         <hr class="col-lg-8">
